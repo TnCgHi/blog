@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "哦莫恰尼~恰恰恰~",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://tncghi.github.io/blog",
 
 	// 站点描述
 	description:
